@@ -1,0 +1,17 @@
+{
+  "name": "self-graph",
+  "version": "0.0.1",
+  "description": "Mapping technical identity as a graph",
+  "main": "index.js",
+  "author": "Bruno Chaves",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chachachavito/self-graph.git"
+  }
+}
